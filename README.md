@@ -1,8 +1,4 @@
-# Spanbergregator
-
-![Screenshot](./assets/preview.png)
-
-Created/maintained by [Liv](https://gitlab.com/livrush)
+# Mattgregator - A Media Aggregator tool built based upon Spanbergregator
 
 * [About](#about)
 * [Techstack](#techstack)
@@ -231,10 +227,3 @@ npm run deploy
 ```
 
 The build process is already set up, so once the build finishes you should have a live aggregator!
-
-## Contribute
-
-My wishlist:
-
-* Cache data from API calls to reduce call count
-* Group articles that are posted to multiple sources
