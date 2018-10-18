@@ -1,4 +1,4 @@
-# Mattgregator - A Social Media Aggregator tool built based upon Spanbergregator
+# Mattgregator - A Social Media Aggregator tool built based upon the Spanbergregator
 
 * [About](#about)
 * [Techstack](#techstack)
