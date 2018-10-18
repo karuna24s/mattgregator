@@ -21,7 +21,7 @@
 
 ## About
 
-A simple info aggregator for VA-07 campaign. It was built to be flexible and accessible for any campaign.
+A simple info aggregator for PA-08 campaign. It was built to be flexible and accessible for any campaign.
 
 What it does:
 
@@ -48,7 +48,7 @@ What it does:
 ### Clone this repository
 
 ```
-git clone git@gitlab.com:digidems/spanbergregator.git && cd spanbergregator
+git clone git@gitlab.com:karunasehgal/mattgregator.git && cd mattgregator
 ```
 
 ### Install dependencies
